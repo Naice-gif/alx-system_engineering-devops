@@ -1,2 +1,2 @@
 #!/bin/bash
-cat <file_name> | sort |uniq -u
+ls -t1 | head -n 10
