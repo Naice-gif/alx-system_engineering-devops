@@ -1,0 +1,4 @@
+#!/bin/bash
+water=WATER
+stir=STIR
+echo $bestchol=$(($WATER + $STIR))
