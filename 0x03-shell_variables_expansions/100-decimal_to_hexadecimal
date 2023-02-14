@@ -1,2 +1,2 @@
-#!/bin/bash
-echo $(($DECIMAL#16))
+#!/bin/bashi
+echo printf '%x\n' $DECIMAL  
